@@ -34,6 +34,16 @@ THEN I am presented with the last searched city forecast
 ## Deployed link (video of opening app in the browswer)
 
 * https://share.vidyard.com/watch/a6L9NiuWQGQYzABEbRCJQc?
+  
+  <script type="text/javascript" async src="https://play.vidyard.com/embed/v4.js"></script>
+<img
+  style="width: 100%; margin: auto; display: block;"
+  class="vidyard-player-embed"
+  src="https://play.vidyard.com/a6L9NiuWQGQYzABEbRCJQc.jpg"
+  data-uuid="a6L9NiuWQGQYzABEbRCJQc"
+  data-v="4"
+  data-type="inline"
+/>
 
 ## Screen shot of deployed app
 
