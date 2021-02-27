@@ -35,7 +35,9 @@ THEN I am presented with the last searched city forecast
 * https://share.vidyard.com/watch/a6L9NiuWQGQYzABEbRCJQc?
 
 ## Screen shot of deployed app
+![alt tag](http://raw.githubusercontent.com/CHANCEEWELL/weather-dashboard-API-RESUBMIT/master/images/Screen%20Shot%202021-02-26%20at%2011.15.32%20PM.png/to/img.png)
+  !https://raw.githubusercontent.com/CHANCEEWELL/weather-dashboard-API-RESUBMIT/master/images/Screen%20Shot%202021-02-26%20at%2011.15.32%20PM.png
 
-* https://raw.githubusercontent.com/CHANCEEWELL/weather-dashboard-API-RESUBMIT/master/images/Screen%20Shot%202021-02-26%20at%2011.15.32%20PM.png
+## Deployed App URL
 
-
+* https://chanceewell.github.io/weather-dashboard-API-RESUBMIT/
