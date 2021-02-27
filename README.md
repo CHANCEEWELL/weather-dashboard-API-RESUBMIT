@@ -31,7 +31,9 @@ THEN I am presented with the last searched city forecast
 ```
 
 
-## Deployed link (video of opening app in the browswer)
+## Deployed link & Video
+
+* https://chanceewell.github.io/weather-dashboard-API-RESUBMIT/
 
 * https://share.vidyard.com/watch/a6L9NiuWQGQYzABEbRCJQc?
   
@@ -50,6 +52,4 @@ THEN I am presented with the last searched city forecast
 ![](https://raw.githubusercontent.com/CHANCEEWELL/weather-dashboard-API-RESUBMIT/master/images/weather.png)
 
 
-## Deployed App URL
-
-* https://chanceewell.github.io/weather-dashboard-API-RESUBMIT/
+Used "convertio" to make embeded video
