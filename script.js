@@ -122,7 +122,6 @@ function getWeather(city){
         });
     });
 }
-
 $("#citySubmit").on("click", function(){
 
     city = $("#cityInput").val();  
